@@ -1,0 +1,6 @@
+.spas-carousel .swiper-button-next:after,
+.spas-carousel .swiper-button-prev:after {
+  font-size: 18px;
+  color: #333;
+  font-weight: bold;
+}
