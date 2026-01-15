@@ -20,6 +20,12 @@ import BlogDetailsPage from './pages/blog/BlogDetailsPage';
 import SnapToTop from "./components/SnapToTop"
 import { useEffect } from "react"
 import { initAuthCheck } from "./utils/auth"
+import SiteLayout from "./components/SiteLayout"
+import About from "./pages/About"
+import PrivacyPolicy from "./pages/PrivacyPolicy"
+import TermsOfService from "./pages/TermsOfService"
+import AdultContentWarning from "./pages/AdultContentWarning"
+import Contact from "./pages/Contact"
 
 
 
@@ -33,28 +39,31 @@ function App() {
       <PersistGate loading={<div>Loading...</div>} persistor={persistor}>
         <Router>
           <Toaster position="top-right" />
-          <Navbar />
-          <ScrollToTop />
-          <SnapToTop />
-          <Routes>
-            <Route path="/" element={<Home />} />
+          <SiteLayout>
+            <Routes>
+              <Route path="/" element={<Home />} />
 
-            <Route path="/register" element={<Register />} />
-            <Route path="/sign-up" element={<SignUp />} />
-            <Route path="/login" element={<Login />} />
-            <Route path="/dashboard" element={<Dashboard />} />
+              <Route path="/register" element={<Register />} />
+              <Route path="/sign-up" element={<SignUp />} />
+              <Route path="/login" element={<Login />} />
+              <Route path="/dashboard" element={<Dashboard />} />
 
-            <Route path="/:county" element={<LocationPage />} />
-            <Route path="/:county/:location" element={<LocationPage />} />
-            <Route path="/:county/:location/:area" element={<LocationPage />} />
+              <Route path="/:county" element={<LocationPage />} />
+              <Route path="/:county/:location" element={<LocationPage />} />
+              <Route path="/:county/:location/:area" element={<LocationPage />} />
 
-            <Route path="/profile/:userType/:userId" element={<ProfileDetailsPage />} />
+              <Route path="/profile/:userType/:userId" element={<ProfileDetailsPage />} />
 
-            <Route path="/blog" element={<BlogsPage />} />
-            <Route path="/blog/:id" element={<BlogDetailsPage />} />
-          </Routes>
-          <BackToTop />
-          <Footer />
+              <Route path="/blog" element={<BlogsPage />} />
+              <Route path="/blog/:id" element={<BlogDetailsPage />} />
+
+              <Route path="/about" element={<About />} />
+              <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+              <Route path="/terms-of-service" element={<TermsOfService />} />
+              <Route path="/adult-content-warning" element={<AdultContentWarning />} />
+              <Route path="/contact" element={<Contact />} />
+            </Routes>
+          </SiteLayout>
         </Router>
       </PersistGate>
     </Provider>

@@ -194,7 +194,7 @@ If you're curious about dipping your toes in, like I did, check out Alchemyst. I
         id: 'unlocking-ecstasy-essential-escort-services-in-kenya-you-must-experience',
         title: 'Unlocking Ecstasy: Essential Escort Services in Kenya You Must Experience',
         excerpt: 'A tantalizing array of services offered by professional escorts in Kenya, designed to fulfill your deepest desires with discretion, passion, and unparalleled satisfaction...',
-        intro:  "Whether you're a local looking to unwind or a traveler craving adventure, platforms like Alchemyst.co.ke connect you with verified professionals who prioritize safety, consent, and explosive pleasure. From sensual massages to wild role plays, we'll explore 18 must-try services with explicit breakdowns, so you know exactly what to expect when you book. Remember, communication is key—discuss boundaries upfront for sessions that leave you breathless and begging for more.",
+        intro:  "Whether you're a local looking to unwind or a traveler craving adventure, platforms like Alchemyst.co.ke connect you with verified professionals who prioritize safety, consent, and explosive pleasure. From sensual massages to wild role plays, we'll explore 18 must-try services with explicit breakdowns, so you know exactly what to expect when you book. Remember, communication is key—discuss boundaries upfront for sessions that leave you breathless and begging for more. SPOILER ALERT! LIST GET'S HOTTER THE MORE YOU SCROLL",
         category: 'Escorts',
         layout: BLOG_LAYOUTS.TOP_TEN,
         coverImage: 'https://res.cloudinary.com/dowxcmeyy/image/upload/v1761132234/unlocking-ecstasy-essential-escort-services-in-kenya-you-must-experience_1_lj9ae8.jpg',
@@ -206,202 +206,165 @@ If you're curious about dipping your toes in, like I did, check out Alchemyst. I
             {
                 title: 'Massage',
                 description: "Indulge in a full-body oil rubdown that starts innocent but escalates into erotic bliss. Your escort's skilled hands glide over your skin, kneading tense muscles before focusing on erogenous zones—teasing your inner thighs, circling your cock or clit with firm strokes.",
-                image: '',
+                image: 'https://res.cloudinary.com/dowxcmeyy/image/upload/v1767896470/1_otebms.jpg',
                 imagePosition: 'left',
                 tips: [
                     'Request hot stones for deeper relaxation before the climax.',
                     'Combine with aromatherapy oils to heighten sensory arousal.',
-                    'Extend to a mutual massage for reciprocal touching and tension release.'
                 ]
             },
             {
-                title: '',
-                description: '',
-                image: '',
-                imagePosition: 'left',
+                title: 'Dinner Dates',
+                description: "Share a lavish meal at a upscale spot, where flirtation simmers under the table—her foot tracing your calf, whispers promising what's next. Post-dinner, retreat to your hotel for dessert: she strips slowly, dropping to her knees to suck your cock hungrily, saliva dripping as she deepthroats, leading to a night of passionate fucking.",
+                image: 'https://res.cloudinary.com/dowxcmeyy/image/upload/v1767897193/2_eadshy.png',
+                imagePosition: 'right',
                 tips: [
-                    '',
-                    '',
-                    ''
+                    'Choose a private booth for discreet fondling during appetizers.',
+                    'Opt for wine pairings to loosen inhibitions for bolder play later.',
                 ]
             },
             {
-                title: '',
-                description: '',
-                image: '',
+                title: 'Travel Companion',
+                description: 'Your personal guide for Kenyan adventures—safari days turn steamy nights in luxury lodges. She joins you hiking, then in the tent, rides your cock reverse cowgirl style, pussy clenching as wildlife sounds echo, or bends over for anal under the stars, moaning with each thrust until you fill her ass with hot cum.',
+                image: 'https://res.cloudinary.com/dowxcmeyy/image/upload/v1767897520/3_p4qvds.jpg',
                 imagePosition: 'left',
                 tips: [
-                    '',
-                    '',
-                    ''
+                    'Pack discreet toys for spontaneous outdoor encounters.',
+                    'Share cultural insights during the day to build genuine rapport.',
                 ]
             },
             {
-                title: '',
-                description: '',
-                image: '',
-                imagePosition: 'left',
+                title: 'GFE (Girlfriend Experience)',
+                description: 'Feel like lovers reunited: cuddles, deep kisses, and slow, intimate sex where she whispers affections while grinding on your cock, her pussy soaking you in warmth. Cuddle post-orgasm, her head on your chest, fingers tracing your spent dick, ready for round two of tender yet intense fucking.',
+                image: 'https://res.cloudinary.com/dowxcmeyy/image/upload/v1767897751/4_pc21ln.jpg',
+                imagePosition: 'right',
                 tips: [
-                    '',
-                    '',
-                    ''
+                    'Incorporate pillow talk for personalized dirty confessions.',
+                    'Add light bondage to mix sweetness with a submissive edge.',
                 ]
             },
             {
-                title: '',
-                description: '',
-                image: '',
+                title: 'PSE (Pornstar Experience)',
+                description: 'High-energy, no-holds-barred action like your favorite adult film. She arrives in lingerie, drops to all fours for you to pound her pussy doggy-style, ass jiggling with slaps, then flips for a rough face-fuck, gagging on your cock before you pull out to cum across her tits in a dramatic finish.',
+                image: 'https://res.cloudinary.com/dowxcmeyy/image/upload/v1767898391/5_is90ps.jpg',
                 imagePosition: 'left',
                 tips: [
-                    '',
-                    '',
-                    ''
+                    'Request specific scenes or outfits to customize the fantasy.',
                 ]
             },
             {
-                title: '',
-                description: '',
-                image: '',
-                imagePosition: 'left',
+                title: 'Couples',
+                description: 'Elevate your relationship with a third wheel— she joins you and your partner, licking pussies while you fuck her from behind, or takes turns deepthroating both cocks in a bisexual frenzy, bodies slick with sweat and cum as orgasms ripple through the trio.',
+                image: 'https://res.cloudinary.com/dowxcmeyy/image/upload/v1767898658/6_suwpkt.jpg',
+                imagePosition: 'right',
                 tips: [
-                    '',
-                    '',
-                    ''
+                    'Make sure your Partner is comfortable with the whole thing',
+                    'Start with sensual group massages to ease into the heat.',
                 ]
             },
             {
-                title: '',
-                description: '',
-                image: '',
+                title: 'Sleepovers',
+                description: 'Overnight indulgence: fuck her senseless at midnight, wake to morning wood sucked eagerly, then anal in the shower, water cascading as you thrust deep, ending with breakfast in bed where she rims you teasingly before another round of raw passion.',
+                image: 'https://res.cloudinary.com/dowxcmeyy/image/upload/v1767899371/7_xkcokd.jpg',
                 imagePosition: 'left',
                 tips: [
-                    '',
-                    '',
-                    ''
+                    'You can have a threesome sleepover if you can handle two hotties.',
+                    'Schedule wake-up calls for timed erotic surprises.',
                 ]
             },
             {
-                title: '',
-                description: '',
-                image: '',
-                imagePosition: 'left',
+                title: 'Threesomes',
+                description: 'Double the pleasure: two escorts lavishing you—one riding your cock while the other sits on your face, pussies grinding in unison, switching to DP your chosen hole, moans filling the room as they scissor over your thrusting dick, cumming in synchronized waves.',
+                image: 'https://res.cloudinary.com/dowxcmeyy/image/upload/v1767899825/9_apijgs.jpg',
+                imagePosition: 'right',
                 tips: [
-                    '',
-                    '',
-                    ''
+                    'Alternate positions to avoid fatigue and maximize variety.',
+                    'Choose complementary personalities for seamless chemistry.',
                 ]
             },
             {
-                title: '',
-                description: '',
-                image: '',
+                title: 'Role Play',
+                description: "Step into fantasies: as your naughty nurse, she 'examines' your cock with her mouth, sucking until you 'recover' by bending her over the exam table for hard pussy pounding, role escalating to doctor-patient anal with toys for added realism.",
+                image: 'https://res.cloudinary.com/dowxcmeyy/image/upload/v1767900567/9_vs2oed.webp',
                 imagePosition: 'left',
                 tips: [
-                    '',
-                    '',
-                    ''
+                    'Incorporate dialogue to stay in character during intense acts.',
+                    'Debrief post-scene to refine future play.',
                 ]
             },
             {
-                title: '',
-                description: '',
-                image: '',
-                imagePosition: 'left',
+                title: 'Lesbian Shows',
+                description: 'For voyeuristic thrills, watch two women devour each other—tongues lapping clits, fingers plunging into wet pussies, scissoring furiously until they squirt, inviting you to join for a cock-fueled finale of group oral and penetration.',
+                image: 'https://res.cloudinary.com/dowxcmeyy/image/upload/v1767977203/10_gsphlu.jpg',
+                imagePosition: 'right',
                 tips: [
-                    '',
-                    '',
-                    ''
+                    'Request themes like schoolgirls for added taboo appeal.',
+                    'Use toys like strap-ons for penetrative variety.',
                 ]
             },
             {
-                title: '',
-                description: '',
-                image: '',
+                title: 'Anal',
+                description: 'Backdoor delight: lubed and ready, she spreads her cheeks as you ease your cock into her tight ass, thrusting slowly at first, then pounding hard while she fingers her pussy, ass clenching around you until you explode deep inside, cum leaking out.',
+                image: 'https://res.cloudinary.com/dowxcmeyy/image/upload/v1767977622/11_wqmc0t.jpg',
                 imagePosition: 'left',
                 tips: [
-                    '',
-                    '',
-                    ''
+                    'Start with rimming to relax the muscles fully.',
+                    'Use plenty of lube and go slow for comfort.',
                 ]
             },
             {
-                title: '',
-                description: '',
+                title: 'BDSM',
+                description: 'Power exchange paradise: bound with silk ropes, you submits as she whip you lightly, then fuck her mouth roughly, escalating to pegging or caning before untying for a dominant anal session, safe words ensuring ecstatic surrender.',
+                image: 'https://res.cloudinary.com/dowxcmeyy/image/upload/v1767979110/12_arrnvz.png',
+                imagePosition: 'right',
+                tips: [
+                    'Discuss limits and signals before starting.',
+                    'Incorporate aftercare with massages post-scene.',
+                    'Experiment with sensory deprivation for heightened intensity.'
+                ]
+            },
+            {
+                title: 'BJ',
+                description: 'Blowjob bliss: she takes your cock in her mouth, swirling her tongue around the head, deep throating with skillful suction until you cum, then she licks the cum off your cock and swallows it all.',
+                image: 'https://res.cloudinary.com/dowxcmeyy/image/upload/v1767980890/13_zbkdjg.png',
+                imagePosition: 'left',
+                tips: [
+                    'Combine with ball sucking for full genital attention.',
+                ]
+            },
+            {
+                title: 'Rimming',
+                description: 'Ass worship extraordinaire: she spreads your cheeks, tongue delving into your hole, licking and probing while stroking your cock, the taboo sensation driving you wild until you flip her for reciprocal rimming before fucking her senseless.',
+                image: '',
+                imagePosition: 'right',
+                tips: [
+                    'Shower together first for cleanliness and foreplay.',
+                    'Pair with prostate massage for male explosive orgasms.',
+                    'Incorporate toys for deeper anal exploration.'
+                ]
+            },
+            {
+                title: 'Golden Shower',
+                description: 'Watersports kink: she stands over you, warm piss streaming onto your cock or face, the humiliation mixing with arousal as you stroke yourself, then fuck her soaked pussy, the wetness adding slippery intensity to your pounding.',
                 image: '',
                 imagePosition: 'left',
                 tips: [
-                    '',
-                    '',
-                    ''
+                    'Set up in a bathroom for easy cleanup.',
+                    'Alternate giving and receiving for balanced play.',
+                ]
+            },
+            {
+                title: 'Sex Toys',
+                description: 'Toy-fueled frenzy: vibrators buzzing on her clit while you fuck her ass, dildos double-penetrating her holes, or cock rings prolonging your thrusts—endless variety as she squirts from a wand, begging for your real dick to finish her off.',
+                image: '',
+                imagePosition: 'left',
+                tips: [
+                    'Bring your favorites or let her suggest new ones.',
+                    'Start slow to build to overwhelming overstimulation.',
+                    'Clean thoroughly between uses for hygiene.',
                 ]
             },
        ]
     },
 
-
-
-
-
-    {
-        id: '3',
-        title: 'Top 5 Luxury Spas in Westlands for Ultimate Relaxation',
-        excerpt: 'Discover the most exclusive and relaxing spas in Westlands that offer premium services and exceptional experiences...',
-        category: 'Local Guides',
-        layout: BLOG_LAYOUTS.SPA_REVIEW,
-        coverImage: '/images/spa-guide-cover.jpg',
-        author: 'Wellness Explorer',
-        publishDate: '2024-01-10',
-        readTime: '6 min read',
-        featuredSpas: ['68ee50bc7b6676bbe92bc814', '68ee8b04e7ecaf32b9a2ba8f', '68ee9b39609154982346ecb2', 'spa101', 'spa112'],
-        introduction: `Westlands has become Nairobi's premier destination for luxury wellness experiences. After visiting over 20 establishments, I've curated the top 5 spas that truly deliver exceptional service, ambiance, and results. Whether you're looking for a quick massage or a full day of pampering, these spots won't disappoint.`,
-        conclusion: `Each of these spas offers something unique, but they all share a commitment to quality and customer satisfaction. Remember to book in advance, especially for weekend appointments, and don't be afraid to communicate your preferences to the therapists.`
-    },
-    {
-        id: '4',
-        title: 'Rising Stars: Meet Nairobi Most Promising New Escorts',
-        excerpt: 'Get to know the fresh faces making waves in Nairobi adult entertainment scene with their unique styles and exceptional service...',
-        category: 'Industry News',
-        layout: BLOG_LAYOUTS.PROFILE_SPOTLIGHT,
-        coverImage: '/images/rising-stars-cover.jpg',
-        author: 'Industry Insider',
-        publishDate: '2024-01-08',
-        readTime: '10 min read',
-        featuredProfiles: ['escort123', 'escort456', 'escort789', 'masseuse123'],
-        introduction: `The Nairobi adult entertainment scene is constantly evolving, with new talent emerging every month. These rising stars have caught our attention with their professionalism, unique personalities, and dedication to providing exceptional experiences.`,
-        conclusion: `These newcomers represent the future of Nairobi's adult industry - diverse, professional, and customer-focused. Keep an eye on them as they're sure to become household names in the community.`
-    },
-    {
-        id: '5',
-        title: 'The Ultimate Guide to Safe Dating in Nairobi',
-        excerpt: 'Everything you need to know to ensure your dating experiences in Nairobi are safe, enjoyable, and memorable...',
-        category: 'Dating Tips',
-        layout: BLOG_LAYOUTS.MIXED_CONTENT,
-        coverImage: '/images/dating-guide-cover.jpg',
-        author: 'Safety First',
-        publishDate: '2024-01-05',
-        readTime: '15 min read',
-        featured: true,
-        content: [
-            {
-                type: 'text',
-                content: `Dating in Nairobi can be an exciting adventure, but safety should always be your top priority. Whether you're meeting someone from a dating app or connecting with a service provider, these guidelines will help ensure your experiences are positive and secure.`
-            },
-            {
-                type: 'profile_spotlight',
-                profileIds: ['escort123', 'escort456']
-            },
-            {
-                type: 'text',
-                content: `Always trust your instincts - if something feels wrong, it probably is. Here are essential safety tips every dater should know...`
-            },
-            {
-                type: 'spa_spotlight',
-                spaIds: ['spa123']
-            },
-            {
-                type: 'text',
-                content: `Remember that your safety and comfort are non-negotiable. Don't let excitement override your common sense, and always have an exit strategy.`
-            }
-        ]
-    }
 ];
