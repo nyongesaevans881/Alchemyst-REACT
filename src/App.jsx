@@ -26,16 +26,17 @@ import PrivacyPolicy from "./pages/PrivacyPolicy"
 import TermsOfService from "./pages/TermsOfService"
 import AdultContentWarning from "./pages/AdultContentWarning"
 import Contact from "./pages/Contact"
+import { useInitializeProfiles } from "./hooks/useInitializeProfiles"
 
+  const AppContent = () => {
+    useEffect(() => {
+      initAuthCheck();
+    }, []);
 
+    // ✅ Now this runs INSIDE the Provider
+    useInitializeProfiles();
 
-function App() {
-  useEffect(() => {
-    initAuthCheck(); // clears data + redirects if expired
-  }, []);
-
-  return (
-    <Provider store={store}>
+    return (
       <PersistGate loading={<div>Loading...</div>} persistor={persistor}>
         <Router>
           <Toaster position="top-right" />
@@ -66,6 +67,13 @@ function App() {
           </SiteLayout>
         </Router>
       </PersistGate>
+    );
+  }
+
+function App() {
+  return (
+    <Provider store={store}>
+      <AppContent />
     </Provider>
   )
 }

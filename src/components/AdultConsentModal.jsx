@@ -17,12 +17,12 @@ export default function AdultConsentModal({ onClose }) {
   return (
     <div className="fixed inset-0 z-999999 flex items-center justify-center bg-black/70 backdrop-blur-sm">
       <div className="max-w-md w-full bg-white rounded-2xl p-6 mx-4">
-        <h2 className="text-2xl font-bold mb-3 flex flex-col items-center gap-2 uppercase">
+        <h2 className="text-2xl font-bold mb-3 flex flex-col items-center gap-2 uppercase text-center">
           <div className="bg-black p-2 rounded-full flex items-center justify-center">
-          <img src="/primary-logo.png" className="h-25" alt="" />
+            <img src="/primary-logo.png" className="h-25" alt="" />
           </div>
           Adult Content Warning
-          </h2>
+        </h2>
         <p className="text-text-secondary mb-4 text-center">
           This website contains content intended for adults aged 18 and over. By continuing, you confirm that you
           are at least 18 years old and that viewing this content is legal in your jurisdiction.

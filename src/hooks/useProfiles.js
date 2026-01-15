@@ -1,7 +1,8 @@
 import { useDispatch, useSelector } from 'react-redux'
-import { useSearchParams } from 'react-router-dom'
+import { useSearchParams, useParams } from 'react-router-dom'
 import { fetchAllProfiles, applyFilters } from '../redux/profilesSlice'
 import { setFilters, setSelectedCounty } from '../redux/uiSlice'
+import { urlToCounty, urlToLocation, urlToArea } from '../utils/urlHelpers'
 import { useEffect, useCallback, useMemo } from 'react'
 
 const CACHE_DURATION = 60 * 60 * 1000 // 5 minutes
@@ -9,6 +10,7 @@ const CACHE_DURATION = 60 * 60 * 1000 // 5 minutes
 export const useProfiles = () => {
   const dispatch = useDispatch()
   const [searchParams, setSearchParams] = useSearchParams()
+  const params = useParams()
 
   // Get state from Redux
   const {
@@ -152,6 +154,21 @@ export const useProfiles = () => {
       dispatch(applyFilters(activeFilters))
     }
   }, [dispatch, allProfiles.length, selectedCounty, setSearchParams])
+
+  // Set county, location, area from URL params (for location pages)
+  useEffect(() => {
+    if (params.county) {
+      const county = urlToCounty(params.county)
+      if (county) {
+        dispatch(setSelectedCounty(county))
+      }
+    }
+    if (params.location || params.area) {
+      const location = params.location ? urlToLocation(params.location) : null
+      const area = params.area ? urlToArea(params.area) : null
+      dispatch(setFilters({ location, area }))
+    }
+  }, [params, dispatch])
 
   // Manual refresh function
   const refreshProfiles = useCallback(() => {
