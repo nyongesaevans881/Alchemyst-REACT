@@ -219,9 +219,9 @@ export default function LocationPage() {
   const totalSpas = packageSpas.elite.length + packageSpas.premium.length + packageSpas.basic.length
 
   const getPageTitle = () => {
-    if (area) return `${area} Area`
-    if (location) return `${location} Location`
-    return `${county} County`
+    if (area) return `${area} Escorts`
+    if (location) return `${location} Call Girls`
+    return `${county} Escorts`
   }
 
   const getPageSubtitle = () => {

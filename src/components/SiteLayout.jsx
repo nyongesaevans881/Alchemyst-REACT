@@ -5,6 +5,7 @@ import BackToTop from "./BackToTop"
 import ScrollToTop from "./BackToTop"
 import SnapToTop from "./SnapToTop"
 import AdultConsentModal from "./AdultConsentModal"
+import TelegramModal from "./TelegramModal"
 import { hasAdultConsent } from "../utils/consent"
 
 export default function SiteLayout({ children }) {
@@ -21,6 +22,7 @@ export default function SiteLayout({ children }) {
           {!consentGiven && (
             <AdultConsentModal onClose={() => setConsentGiven(true)} />
           )}
+          <TelegramModal />
           {children}
           <BackToTop />
           <Footer />
