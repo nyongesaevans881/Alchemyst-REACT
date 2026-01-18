@@ -40,14 +40,14 @@ const TelegramModal = () => {
             <div className="fixed right-0 top-1/2 transform -translate-y-1/2 z-50 flex flex-col space-y-2">
                 <button
                     onClick={openModal}
-                    className="bg-blue-500 hover:bg-blue-600 text-white p-3 rounded-l-sm shadow-lg transition-colors duration-200 cursor-pointer"
+                    className="bg-blue-500 hover:bg-blue-600 text-white p-3 max-md:p-1 rounded-l-sm shadow-lg transition-colors duration-200 cursor-pointer"
                     aria-label="Join Telegram Channel"
                 >
                     <FaTelegramPlane size={20} />
                 </button>
                 <button
                     onClick={openModal}
-                    className="bg-green-500 hover:bg-green-600 text-white p-3 rounded-l-sm shadow-lg transition-colors duration-200 cursor-pointer"
+                    className="bg-green-500 hover:bg-green-600 text-white p-3 max-md:p-1 rounded-l-sm shadow-lg transition-colors duration-200 cursor-pointer"
                     aria-label="Contact via Telegram"
                 >
                     <BiSupport size={20} />
