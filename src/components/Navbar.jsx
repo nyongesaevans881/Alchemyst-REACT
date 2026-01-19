@@ -174,12 +174,12 @@ export default function Navbar() {
         {/* --- Mobile Menu Button --- */}
         <button onClick={() => setMobileMenuOpen(!mobileMenuOpen)} className="md:hidden text-text-inverse text-3xl z-50 relative" aria-label="Toggle menu">
           {mobileMenuOpen ? (
-            <div className="flex items-center gap-2 bg-primary px-3 py-1 rounded-md font-semibold text-md hover:bg-primary-dark">
+            <div className="flex items-center gap-2 bg-primary px-3 py-1 rounded-md font-semibold text-sm hover:bg-primary-dark">
               <CloseIcon />
               <span>Close</span>
             </div>
           ) : (
-            <div className="flex items-center gap-2 bg-primary px-3 py-1 rounded-md font-semibold text-md hover:bg-primary-dark">
+            <div className="flex items-center gap-2 bg-primary px-3 py-1 rounded-md font-semibold text-sm hover:bg-primary-dark">
               <span>Menu</span>
               <MenuIcon />
             </div>
