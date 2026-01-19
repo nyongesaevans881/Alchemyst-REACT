@@ -87,10 +87,10 @@ export default function Navbar() {
 
   const navLinks = [
     { href: "/", label: "Home" },
-    { href: "/?userType=escort", label: "Escorts" },
-    { href: "/?userType=masseuse", label: "Massage" },
-    { href: "/?userType=of-model", label: "OF Models" }, // Changed from OFModel to of-model
-    { href: "/?userType=spa", label: "Spas" },
+    { href: "/escorts", label: "Escorts" },
+    { href: "/masseuses", label: "Massage" },
+    { href: "/of-models", label: "OF Models" },
+    { href: "/spas", label: "Spas" },
     { href: "/blog", label: "Blog" },
   ];
 
@@ -173,7 +173,17 @@ export default function Navbar() {
 
         {/* --- Mobile Menu Button --- */}
         <button onClick={() => setMobileMenuOpen(!mobileMenuOpen)} className="md:hidden text-text-inverse text-3xl z-50 relative" aria-label="Toggle menu">
-          {mobileMenuOpen ? <CloseIcon /> : <MenuIcon />}
+          {mobileMenuOpen ? (
+            <div className="flex items-center gap-2 bg-primary px-3 py-1 rounded-md font-semibold text-md hover:bg-primary-dark">
+              <CloseIcon />
+              <span>Close</span>
+            </div>
+          ) : (
+            <div className="flex items-center gap-2 bg-primary px-3 py-1 rounded-md font-semibold text-md hover:bg-primary-dark">
+              <span>Menu</span>
+              <MenuIcon />
+            </div>
+          )}
         </button>
       </div>
 

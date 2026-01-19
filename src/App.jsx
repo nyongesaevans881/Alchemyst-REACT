@@ -27,6 +27,11 @@ import TermsOfService from "./pages/TermsOfService"
 import AdultContentWarning from "./pages/AdultContentWarning"
 import Contact from "./pages/Contact"
 import { useInitializeProfiles } from "./hooks/useInitializeProfiles"
+// New page imports
+import EscortsPage from "./pages/escorts/EscortsPage"
+import SpasPage from "./pages/spas/SpasPage"
+import MasseusesPage from "./pages/masseuses/MasseusesPage"
+import OfModelsPage from "./pages/of-models/OfModelsPage"
 
   const AppContent = () => {
     useEffect(() => {
@@ -63,6 +68,12 @@ import { useInitializeProfiles } from "./hooks/useInitializeProfiles"
               <Route path="/terms-of-service" element={<TermsOfService />} />
               <Route path="/adult-content-warning" element={<AdultContentWarning />} />
               <Route path="/contact" element={<Contact />} />
+
+              {/* New category pages */}
+              <Route path="/escorts" element={<EscortsPage />} />
+              <Route path="/spas" element={<SpasPage />} />
+              <Route path="/masseuses" element={<MasseusesPage />} />
+              <Route path="/of-models" element={<OfModelsPage />} />
             </Routes>
           </SiteLayout>
         </Router>
