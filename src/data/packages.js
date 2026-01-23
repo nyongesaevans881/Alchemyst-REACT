@@ -11,7 +11,7 @@ export const PACKAGE_TIERS = {
         basic: {
             id: "basic",
             name: "Sweet Temptation",
-            weeklyPrice: 200,
+            weeklyPrice: 100,
             icon: AiOutlineStar,
             features: [
                 "Basic profile listing",
@@ -23,7 +23,7 @@ export const PACKAGE_TIERS = {
         premium: {
             id: "premium",
             name: "Sensual Delight",
-            weeklyPrice: 350,
+            weeklyPrice: 250,
             icon: AiOutlineFire,
             features: [
                 "Premium profile listing",
@@ -40,7 +40,7 @@ export const PACKAGE_TIERS = {
         elite: {
             id: "elite",
             name: "Ultimate Fantasy",
-            weeklyPrice: 450,
+            weeklyPrice: 350,
             icon: AiOutlineCrown,
             features: [
                 "VIP badge on profile",
@@ -58,7 +58,7 @@ export const PACKAGE_TIERS = {
         basic: {
             id: "basic",
             name: "Relaxation Basic",
-            weeklyPrice: 200,
+            weeklyPrice: 100,
             icon: AiOutlineStar,
             features: [
                 "Basic profile listing",
@@ -70,7 +70,7 @@ export const PACKAGE_TIERS = {
         premium: {
             id: "premium",
             name: "Premium Therapy",
-            weeklyPrice: 350,
+            weeklyPrice: 250,
             icon: AiOutlineFire,
             features: [
                 "Premium profile listing",
@@ -86,7 +86,7 @@ export const PACKAGE_TIERS = {
         elite: {
             id: "elite",
             name: "Elite Wellness",
-            weeklyPrice: 450,
+            weeklyPrice: 350,
             icon: AiOutlineCrown,
             features: [
                 "VIP badge on profile",
@@ -150,7 +150,7 @@ export const PACKAGE_TIERS = {
         basic: {
             id: "basic",
             name: "Business Basic",
-            weeklyPrice: 450,
+            weeklyPrice: 350,
             icon: AiOutlineStar,
             features: [
                 "Basic business listing",
@@ -162,7 +162,7 @@ export const PACKAGE_TIERS = {
         premium: {
             id: "premium",
             name: "Business Premium",
-            weeklyPrice: 600,
+            weeklyPrice: 500,
             icon: AiOutlineFire,
             features: [
                 "Premium business listing",
@@ -178,7 +178,7 @@ export const PACKAGE_TIERS = {
         elite: {
             id: "elite",
             name: "Business Elite",
-            weeklyPrice: 850,
+            weeklyPrice: 650,
             icon: AiOutlineCrown,
             features: [
                 "VIP badge on profile",
