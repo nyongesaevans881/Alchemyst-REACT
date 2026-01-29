@@ -43,7 +43,7 @@ export default function WalletBalanceCard({ userData, updateUserData, refreshBal
         <div className="flex items-start justify-between mb-4">
           <div>
             <h3 className="text-xl font-bold text-text-primary mb-1">Your Wallet Balance</h3>
-            <p className="text-sm text-text-muted">Add funds to subscribe to packages</p>
+            <p className="text-sm text-white">Add funds to subscribe to packages</p>
           </div>
           <div className="flex items-center gap-2">
             <AiOutlineWallet className="text-primary text-3xl" />
