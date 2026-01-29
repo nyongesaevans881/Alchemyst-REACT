@@ -12,7 +12,7 @@ export default function WalletBalanceCard({ userData, updateUserData, refreshBal
 
   const balance = userData?.wallet?.balance || 0
 
-  const quickAmounts = [500, 1000, 2000, 5000]
+  const quickAmounts = [100, 200, 500, 1000]
 
   const handleAddFunds = (amount) => {
     setCustomAmount(amount.toString())
