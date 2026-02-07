@@ -15,7 +15,7 @@ export default function PopularAreas({ county }) {
   // ✅ Handle "no county selected" case
   if (!county || county === "all") {
     // Pick top/popular counties (customize this list as you wish)
-    const popularCounties = ["Nairobi", "Mombasa", "Kisumu", "Nakuru", "Kiambu", "Eldoret", "Nanyuki", "Narok", "Limuru"]
+    const popularCounties = ["Nairobi", "Mombasa", "Kisumu", "Nakuru", "Kiambu", "Eldoret", "Laikipia", "Narok", "Limuru"]
 
     return (
       <div className="mb-12">
